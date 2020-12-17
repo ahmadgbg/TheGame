@@ -1,4 +1,4 @@
-#TheGame
+# TheGame
 
 This is a Java game which i created in my java course.  
 You fight with different monster while being able to but new gears and health potions.  
